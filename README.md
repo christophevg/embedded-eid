@@ -1,6 +1,6 @@
 # Embedded eID
 An experiment to implement a minimalistic embedded library to read (Belgian) eID smart cards.  
-Christophe VG <contact@christophe.vg>
+Christophe VG <<contact@christophe.vg>>
 
 ## Introduction
 
